@@ -64,7 +64,6 @@ def main(path):
     cv.imshow("Line segmentation",result)#uncomment this for viewing the line segmentation
     cv.waitKey(0)                        #uncomment this for viewing the line segmentation
     
-    pass
 
 
 
